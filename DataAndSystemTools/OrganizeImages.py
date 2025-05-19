@@ -2,8 +2,8 @@ import os
 import shutil
 
 # === CONFIGURATION ===
-source_folder = "./dataset"
-destination_folder = "./dataset/stored"
+source_folder = "../dataset"
+destination_folder = "../dataset/stored"
 
 # === FUNCTION TO PARSE AND MOVE FILES ===
 def organize_images():

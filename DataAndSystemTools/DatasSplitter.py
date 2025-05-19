@@ -3,8 +3,8 @@ import shutil
 import random
 
 # === CONFIGURATION ===
-base_input_dir = "./dataset/stored"
-base_output_dir = "./dataset"
+base_input_dir = "../dataset/stored"
+base_output_dir = "../dataset"
 train_split = 0.7
 val_split = 0.15
 test_split = 0.15
