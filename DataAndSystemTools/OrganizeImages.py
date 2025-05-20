@@ -2,7 +2,7 @@ import os
 import shutil
 
 # === CONFIGURATION ===
-source_folder = "../dataset"
+source_folder = "../dataset/stored"
 destination_folder = "../dataset/stored"
 
 # === FUNCTION TO PARSE AND MOVE FILES ===
